@@ -3,10 +3,10 @@
 <div align="left">
    Proyecto creado para el
    <a href="https://platzi.com/cursos/react-redux-profesional/">Curso profesional de React.js y Redux</a> de Platzi.
-   Durante el curso se creó una app primero sin y después con Redux-toolkit, para así conocer mejor como funciona Redux.
-   En el proyecto se incluyen conceptos vistos como middlewares, thunks, combineReducers, entre otros. 
-   Para así poder obtener x cantidad de pokemones de pokeAPI, agregarlos a favoritos y poder 
-   filtrarlos en un buscador.   
+   
+   Durante el curso se creó una app primero sin y después con Redux-toolkit, para así conocer mejor como funciona Redux.
+   En el proyecto se incluyen conceptos vistos como middlewares, thunks, combineReducers, entre otros.
+   Para así poder obtener x cantidad de pokemones de pokeAPI, agregarlos a favoritos y poder filtrarlos en un buscador.
 </div>
 
 ## Table of Contents
